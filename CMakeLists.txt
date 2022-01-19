@@ -5,6 +5,6 @@ project(csvlib
     VERSION 0.0.1
 )
 
-add_library(csvl
+add_library(csvlib
     src/csv.cpp
 )
